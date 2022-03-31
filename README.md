@@ -1,5 +1,7 @@
 # understanding-ng
 
+good for understanding angular cli toolchain: initialize, develop and serve, scaffold, maintain and test, build for production 
+
 ```
 npm install -g @angular/cli
 ng version
